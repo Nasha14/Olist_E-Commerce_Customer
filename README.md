@@ -71,10 +71,21 @@ Rather than three separate mini-projects, these are treated as one unified analy
 
 ## Dashboard Pages
 
-1. **Overview** — headline KPIs and project summary
-2. **Sales & Revenue Analysis** — monthly trend, top categories, top states
-3. **Logistics & Satisfaction** — delivery outcomes, delivery time distribution, review score correlation
-4. **Customer Segmentation** — RM segmentation and K-Means cluster validation
+### Overview
+Headline KPIs and project summary.
+![Overview](dashboard/Overview.png)
+
+### Sales & Revenue Analysis
+Monthly revenue trend, top categories, top states by raw and per-customer revenue.
+![Sales & Revenue Analysis](dashboard/Sales_and_Revenue.png)
+
+### Logistics & Satisfaction
+Delivery outcome breakdown, delivery time distribution, and the delivery-to-review-score relationship.
+![Logistics & Satisfaction](dashboard/Logistics_and_Satisfaction.png)
+
+### Customer Segmentation
+Recency + Monetary segmentation, validated independently against K-Means clustering.
+![Customer Segmentation](dashboard/Customer_Segmentation.png)
 
 ## How to Reproduce
 
